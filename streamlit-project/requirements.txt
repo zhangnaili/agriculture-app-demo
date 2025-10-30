@@ -1,0 +1,5 @@
+# 核心库
+streamlit>=1.30.0  # Streamlit 主框架
+pandas>=2.0.0      # 数据处理
+numpy>=1.24.0      # 数值计算
+plotly>=5.15.0     # 可视化图表python-dotenv>=1.0.0  # 可选，用于环境变量（如果后续需要）
